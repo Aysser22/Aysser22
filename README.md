@@ -3,7 +3,7 @@
 
 - 🔭 estou no segundo ano do curso tecnico de TI
 - 🌱 estudando javascript e python
-- 📫 contate-me pelo email: sccpphonix@gmail.com
+- 📫 contate-me pelo email: ayssertaborda4@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
