@@ -1,4 +1,4 @@
-## Oiii eu sou o Aysser Fideles, estudante de programação e tecnologia!
+## Oi eu sou o Aysser Fideles, estudante de programação e tecnologia!
 
 
 - 🔭 estou no segundo ano do curso tecnico de TI
